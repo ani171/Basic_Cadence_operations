@@ -16,3 +16,22 @@
 * From the above
     * NMH = 1.8 - 910.965m= 0.889V
     * NML = 625.58mV
+
+2. Delay Calculation
+
+* Propagation delay is the time interval between when an input signal changes and when the corresponding output signal responds to that change.
+* It measures how quickly a signal propagates through the logic gates or elements of a digital circuit.
+
+![image](https://github.com/ani171/Basic_Cadence_operations/assets/97838595/2e91eba1-dacf-4e2f-8557-4540651a1df0)
+<br>
+METHOD 1 (using markers in the graph) - *Approximate method*
+![image](https://github.com/ani171/Basic_Cadence_operations/assets/97838595/07285f2c-2ca3-4858-adb8-1038abc12afe)
+Falling Delay (because the output is falling): dx=9.909 psec
+<br>
+METHOD 2 (using calculator tool) 
+![image](https://github.com/ani171/Basic_Cadence_operations/assets/97838595/d93a779c-c9fc-417d-94fd-5d3500f5f4fc)
+![image](https://github.com/ani171/Basic_Cadence_operations/assets/97838595/34223a56-6a5e-40a8-a3a7-4383b1bb22dd)
+![image](https://github.com/ani171/Basic_Cadence_operations/assets/97838595/bcb8ca9e-11d5-41ab-8d91-50dbb6451de4)
+![image](https://github.com/ani171/Basic_Cadence_operations/assets/97838595/9fbce94d-a793-45ce-9ae7-2610b40e61ba)
+Delay = 10.02 psec
+
