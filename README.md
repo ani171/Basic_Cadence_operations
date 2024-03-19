@@ -35,3 +35,18 @@ METHOD 2 (using calculator tool)
 ![image](https://github.com/ani171/Basic_Cadence_operations/assets/97838595/9fbce94d-a793-45ce-9ae7-2610b40e61ba)
 Delay = 10.02 psec
 
+3. Power Calculation
+Static Power
+*  Static power, also known as quiescent power or leakage power, represents the power consumed by a circuit even when it's not actively switching or performing any useful work.
+*  Minimizing static power is crucial in standby or idle modes of operation, where the device is powered on but not actively processing data
+*  Low static power consumption ensures that devices can remain in standby mode for extended periods without draining the battery quickly.
+ ![static_power_ckt](https://github.com/ani171/Basic_Cadence_operations/assets/97838595/a0ee8975-4ab3-4c8d-8df4-6751907c0f5e)
+ ![static_power_calc](https://github.com/ani171/Basic_Cadence_operations/assets/97838595/f3bc2396-916e-4dcb-91de-b831e6f9155b)
+![static_power_table](https://github.com/ani171/Basic_Cadence_operations/assets/97838595/66283037-f790-44e7-bc2b-d7d71d062323)
+
+Dynamic Power 
+* Dynamic power consumption occurs due to the charging and discharging of capacitive loads during signal transitions in digital circuits.
+* It directly impacts the performance of the system, including speed and responsiveness.
+* Optimizing dynamic power consumption ensures that electronic devices meet performance requirements and operate efficiently.
+* Excessive dynamic power can lead to energy inefficiency, especially in battery-operated devices. Design techniques such as voltage scaling, clock gating, and pipeline optimization are employed to reduce dynamic power consumption while maintaining adequate performance levels.
+
