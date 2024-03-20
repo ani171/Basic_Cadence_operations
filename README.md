@@ -36,6 +36,7 @@ METHOD 2 (using calculator tool)
 Delay = 10.02 psec
 
 3. Power Calculation
+<br>
 Static Power
 *  Static power, also known as quiescent power or leakage power, represents the power consumed by a circuit even when it's not actively switching or performing any useful work.
 *  Minimizing static power is crucial in standby or idle modes of operation, where the device is powered on but not actively processing data
