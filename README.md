@@ -39,11 +39,12 @@ Delay = 10.02 psec
 <br>
 Static Power
 </br>
-*  Static power, also known as quiescent power or leakage power, represents the power consumed by a circuit even when it's not actively switching or performing any useful work.
-*  Minimizing static power is crucial in standby or idle modes of operation, where the device is powered on but not actively processing data
-*  Low static power consumption ensures that devices can remain in standby mode for extended periods without draining the battery quickly.
- ![static_power_ckt](https://github.com/ani171/Basic_Cadence_operations/assets/97838595/a0ee8975-4ab3-4c8d-8df4-6751907c0f5e)
- ![static_power_calc](https://github.com/ani171/Basic_Cadence_operations/assets/97838595/f3bc2396-916e-4dcb-91de-b831e6f9155b)
+
+* Static power, also known as quiescent power or leakage power, represents the power consumed by a circuit even when it's not actively switching or performing any useful work.
+* Minimizing static power is crucial in standby or idle modes of operation, where the device is powered on but not actively processing data
+* Low static power consumption ensures that devices can remain in standby mode for extended periods without draining the battery quickly.
+![static_power_ckt](https://github.com/ani171/Basic_Cadence_operations/assets/97838595/a0ee8975-4ab3-4c8d-8df4-6751907c0f5e)
+![static_power_calc](https://github.com/ani171/Basic_Cadence_operations/assets/97838595/f3bc2396-916e-4dcb-91de-b831e6f9155b)
 ![static_power_table](https://github.com/ani171/Basic_Cadence_operations/assets/97838595/66283037-f790-44e7-bc2b-d7d71d062323)
 
 Dynamic Power 
